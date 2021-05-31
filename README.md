@@ -7,7 +7,7 @@
 
 <br>
 
-![Screenshot GreasyFork](./img/xda.jpg)
+![Screenshot](./img/xda.jpg)
 
 ## License
 [CC-BY-SA-4.0](https://github.com/pabli24/xda-dark/blob/main/LICENSE)
