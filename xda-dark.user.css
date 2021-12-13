@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           XDA-Developers Dark Theme
 @description    Dark theme for https://www.xda-developers.com
-@version        1.0.1
+@version        1.0.2
 @namespace      https://greasyfork.org/pl/users/124677-pabli
 @author         pabli
 @license        CC-BY-NC-4.0
@@ -32,7 +32,7 @@ html {
     scrollbar-width: thin;
 }
 .topbar {
-	background-color: /*[[topb]]*/;
+	background: /*[[topb]]*/;
 }
 .tagbar {
 	background-color: /*[[tagb]]*/;
