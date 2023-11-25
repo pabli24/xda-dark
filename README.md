@@ -15,7 +15,7 @@
 
 <br>
 
-![Screenshot](./img/xda.jpg)
+![Screenshot](./img/xda2.png)
 
 ## License
 [CC-BY-SA-4.0](https://github.com/pabli24/xda-dark/blob/main/LICENSE)
